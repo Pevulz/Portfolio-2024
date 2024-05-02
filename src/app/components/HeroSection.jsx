@@ -34,7 +34,7 @@ function HeroSection() {
             <Image
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               src="/images/avatar.png"
-              alt="hero image"
+              alt="profile image"
               width={300}
               height={300}
             ></Image>
